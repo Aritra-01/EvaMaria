@@ -14,7 +14,7 @@ class script(object):
 - I'm not a open source project. 🤭 
 - Source - https://Google.com 
 
-<b>DEVS:</b>
+<b>DEV:</b>
 - <a href=https://t.me/HoiChoiTvAddaa>উন্মেষ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
