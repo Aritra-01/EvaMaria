@@ -2,7 +2,7 @@
   <img src="logo.jpg" alt="উন্মেষ Media Search">
 </p>
 <h1 align="center">
-  <b>Eva Maria Bot</b>
+  <b>উন্মেষ Media Search</b>
 </h1>
 
 
